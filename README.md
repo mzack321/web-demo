@@ -4,5 +4,5 @@ This is a Demo for Git &amp; Github class.
 # Teacher : 
 mr.zack
 
-# Student 
+# Student :
  zack
